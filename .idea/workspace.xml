@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0cdeff8-e738-4ab6-a7d2-49a3ec85a474" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1jdufJ9h4ibsOpNspDxlEbOdCia" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/DustyFunky/NativeJS.git" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Илья\WebstormProjects\FckingYeah" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Илья\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0cdeff8-e738-4ab6-a7d2-49a3ec85a474" name="Default Changelist" comment="" />
+      <created>1604146391546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604146391546</updated>
+      <workItem from="1604146392816" duration="10305000" />
+      <workItem from="1604228738622" duration="2184000" />
+      <workItem from="1604522018430" duration="1114000" />
+      <workItem from="1604523250089" duration="1976000" />
+      <workItem from="1604704916776" duration="203000" />
+      <workItem from="1616233788207" duration="3363000" />
+      <workItem from="1616251583569" duration="1443000" />
+      <workItem from="1616259144922" duration="933000" />
+    </task>
+    <task id="LOCAL-00001" summary="*test commit*">
+      <created>1616259772685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616259772686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="*test commit*" />
+    <option name="LAST_COMMIT_MESSAGE" value="*test commit*" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616260245774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616260245774" />
+    <state x="686" y="330" key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent" timestamp="1616239850046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="330" key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent/0.0.1920.1040@0.0.1920.1040" timestamp="1616239850046" />
+    <state x="552" y="8" key="CommitChangelistDialog2" timestamp="1616259772053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="8" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1616259772053" />
+    <state x="687" y="217" key="FileChooserDialogImpl" timestamp="1616259643286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616259643286" />
+    <state x="362" y="78" key="SettingsEditor" timestamp="1616259042772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="362" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1616259042772" />
+  </component>
+</project>
